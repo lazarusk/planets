@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Mercury - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf21" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mercury" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mercury&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mercury&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Mercury" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Mercury" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mercury","wgTitle":"Mercury","wgCurRevisionId":627055931,"wgRevisionId":627055931,"wgArticleId":19007,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All article disambiguation pages","All disambiguation pages","Disambiguation pages","Place name disambiguation pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mercury","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q48397"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-user-rights":true,"echo-subscriptions-web-user-rights":true,"echo-subscriptions-email-other":false,
+"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","multimediaviewer-enable":true,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":
+false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"searchNs2600":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-geonotice":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"gadget-featured-articles-links":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:8d55686787f352ccb6a28352f979b72d */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Mercury skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Mercury</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="//en.wiktionary.org/wiki/Mercury" class="extiw" title="wiktionary:Mercury">Mercury</a></b></i>&#160;or <i><b><a href="//en.wiktionary.org/wiki/mercury" class="extiw" title="wiktionary:mercury">mercury</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<p><b>Mercury</b> commonly refers to:</p>
+<ul>
+<li><a href="/wiki/Mercury_(element)" title="Mercury (element)">Mercury (element)</a>, a metallic chemical element with the symbol Hg and atomic number 80</li>
+<li><a href="/wiki/Mercury_(planet)" title="Mercury (planet)">Mercury (planet)</a>, the smallest planet which orbits the Sun</li>
+<li><a href="/wiki/Mercury_(mythology)" title="Mercury (mythology)">Mercury (mythology)</a>, a Roman god who travelled between the worlds of gods, humans and the dead</li>
+</ul>
+<p><b>Mercury</b> may also refer to:</p>
+<div style="clear: right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: auto;">
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Places"><span class="tocnumber">1</span> <span class="toctext">Places</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Transportation"><span class="tocnumber">2</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Music"><span class="tocnumber">3</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Comics"><span class="tocnumber">4</span> <span class="toctext">Comics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Computing"><span class="tocnumber">5</span> <span class="toctext">Computing</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sports"><span class="tocnumber">6</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Media"><span class="tocnumber">7</span> <span class="toctext">Media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Newspapers"><span class="tocnumber">7.1</span> <span class="toctext">Newspapers</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Radio_stations"><span class="tocnumber">7.2</span> <span class="toctext">Radio stations</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Motion_pictures"><span class="tocnumber">7.3</span> <span class="toctext">Motion pictures</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Television"><span class="tocnumber">7.4</span> <span class="toctext">Television</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Other_uses"><span class="tocnumber">8</span> <span class="toctext">Other uses</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Places">Places</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=1" title="Edit section: Places">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mercury_Bay" title="Mercury Bay">Mercury Bay</a>, a large V-shaped bay on the eastern coast of the Coromandel Peninsula on the North Island of New Zealand</li>
+<li>Mercury Fountain, a fountain in <a href="/wiki/Tom_Quad" title="Tom Quad">Tom Quad</a>, Christ Church College, Oxford, England</li>
+<li><a href="/wiki/Mercury_Islands" title="Mercury Islands">Mercury Islands</a>, a group of islands off the northeast coast of New Zealand, consisting of one large island and six smaller islands</li>
+<li><a href="/wiki/Mercury,_Nevada" title="Mercury, Nevada">Mercury, Nevada</a>, a closed city in Nye County, Nevada, United States, situated within the Nevada Test Site</li>
+<li><a href="/wiki/Mercury,_Savoie" title="Mercury, Savoie">Mercury, Savoie</a>, a commune close to Albertville in the Savoie département in the Rhône-Alpes region in southeastern France</li>
+</ul>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=2" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mercury_(automobile)" title="Mercury (automobile)">Mercury (automobile)</a>, a marque of automobile produced by the Ford Motor Company, 1938–2011
+<ul>
+<li>see also <a href="/wiki/Merkur" title="Merkur">Merkur</a>, a similar defunct Ford brand</li>
+</ul>
+</li>
+<li><a href="/wiki/Mercury_(cyclecar)" title="Mercury (cyclecar)">Mercury (cyclecar)</a>, a United States cyclecar (early small automobile) from 1914</li>
+<li><a href="/wiki/Mercury_(train)" title="Mercury (train)"><i>Mercury</i> (train)</a>, a family of New York Central streamliner passenger trains, 1936–1958</li>
+<li><a href="/wiki/Bristol_Mercury" title="Bristol Mercury">Bristol Mercury</a>, a 9-cylinder aircraft engine</li>
+<li><a href="/wiki/Blackburn_Mercury" title="Blackburn Mercury">Blackburn Mercury</a>, British aircraft from 1911</li>
+<li><a href="/wiki/E-6_Mercury" title="E-6 Mercury" class="mw-redirect">E-6 Mercury</a>, a United States military aircraft</li>
+<li><a href="/wiki/Miles_Mercury" title="Miles Mercury">Miles Mercury</a>, a British aircraft designed during the Second World War</li>
+<li><a href="/wiki/MV_Celebrity_Mercury" title="MV Celebrity Mercury" class="mw-redirect">MV Celebrity Mercury</a>, a cruise ship built in 1997</li>
+<li><a href="/wiki/Project_Mercury" title="Project Mercury">Project Mercury</a>, the first human spaceflight program of the United States
+<ul>
+<li><a href="/wiki/Mercury_Seven" title="Mercury Seven">Mercury Seven</a>, group of astronauts</li>
+</ul>
+</li>
+<li><a href="/wiki/Russian_brig_Mercury" title="Russian brig Mercury">Russian brig <i>Mercury</i></a>, Russian warship</li>
+<li><a href="/wiki/HMS_Mercury" title="HMS Mercury">HMS <i>Mercury</i></a>, the name of several ships of the Royal Navy</li>
+<li><a href="/wiki/USS_Mercury" title="USS Mercury">USS <i>Mercury</i></a>, the name of several ships of the United States Navy</li>
+<li>Mercury, <a href="/wiki/Shuttle_America" title="Shuttle America">Shuttle America</a>'s callsign</li>
+<li><a href="/wiki/Mercury_Marine" title="Mercury Marine">Mercury Marine</a>, a major manufacturer of marine engines, particularly outboard motors</li>
+</ul>
+<h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=3" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Freddie_Mercury" title="Freddie Mercury">Freddie Mercury</a>, the frontman for the rock group Queen</li>
+<li><a href="/wiki/Daniela_Mercury" title="Daniela Mercury">Daniela Mercury</a>, Brazilian singer, songwriter and record producer</li>
+<li><a href="/wiki/Daniela_Mercury_(album)" title="Daniela Mercury (album)">Daniela Mercury (album)</a>, eponymous solo debut album by Daniela Mercury, released in 1991</li>
+<li><a href="/wiki/Mercury_(Longview_album)" title="Mercury (Longview album)"><i>Mercury</i> (Longview album)</a></li>
+<li><a href="/wiki/Mercury_(American_Music_Club_album)" title="Mercury (American Music Club album)"><i>Mercury</i> (American Music Club album)</a></li>
+<li><a href="/wiki/Mercury_(Madder_Mortem_album)" title="Mercury (Madder Mortem album)"><i>Mercury</i> (Madder Mortem album)</a></li>
+<li><a href="/wiki/Mercury_(song)" title="Mercury (song)">"Mercury" (song)</a>, a 2008 song by Bloc Party</li>
+<li><a href="/wiki/Mercury_Records" title="Mercury Records">Mercury Records</a>, a record label</li>
+<li><a href="/wiki/Mercury_Prize" title="Mercury Prize">Mercury Prize</a>, an annual music prize awarded for the best album from the United Kingdom</li>
+<li>"Mercury", a song by Kathleen Edwards from <i><a href="/wiki/Failer" title="Failer">Failer</a></i></li>
+<li>"Mercury", a song by Counting Crows from <i><a href="/wiki/Recovering_the_Satellites" title="Recovering the Satellites">Recovering the Satellites</a></i></li>
+<li>"Mercury, the Winged Messenger", a movement in Gustav Holst's <i><a href="/wiki/The_Planets" title="The Planets">The Planets</a></i></li>
+<li><a href="/wiki/Project_Mercury_(album)" title="Project Mercury (album)"><i>Project Mercury</i> (album)</a>, a 2007 split album by Rosetta and Balboa</li>
+<li><a href="/wiki/Mercury_Rev" title="Mercury Rev">Mercury Rev</a>, an American alternative rock group band</li>
+</ul>
+<h2><span class="mw-headline" id="Comics">Comics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=4" title="Edit section: Comics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mercury_(Marvel_Comics)" title="Mercury (Marvel Comics)">Mercury (Marvel Comics)</a>, a Marvel Comics character who can turn herself into a mercurial substance</li>
+<li><a href="/wiki/Mercury_(Amalgam_Comics)" title="Mercury (Amalgam Comics)" class="mw-redirect">Mercury (Amalgam Comics)</a>, a combination of the characters Impulse and Quicksilver</li>
+<li><a href="/wiki/Makkari_(comics)" title="Makkari (comics)">Makkari (comics)</a> or Mercury, an Eternal</li>
+<li>Mercury, a member of the <a href="/wiki/Metal_Men" title="Metal Men">Metal Men</a>, a DC comics team</li>
+<li>Mercury, a member of <a href="/wiki/Cerebro%27s_X-Men" title="Cerebro's X-Men">Cerebro's X-Men</a></li>
+</ul>
+<h2><span class="mw-headline" id="Computing">Computing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=5" title="Edit section: Computing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mercury_Interactive" title="Mercury Interactive">Mercury Interactive</a>, software testing tools vendor</li>
+<li><a href="/wiki/Mercury_(programming_language)" title="Mercury (programming language)">Mercury (programming language)</a>, a functional/logical programming language based on Prolog</li>
+<li><a href="/wiki/Mercury_OS" title="Mercury OS" class="mw-redirect">Mercury OS</a>, a real-time operating system for embedded systems</li>
+<li><a href="/wiki/Ferranti_Mercury" title="Ferranti Mercury">Ferranti Mercury</a>, an early 1950s commercial computer</li>
+<li><a href="/wiki/Mercury_Autocode" title="Mercury Autocode" class="mw-redirect">Mercury Autocode</a>, a programming language for the Ferranti Mercury computer</li>
+<li><a href="/wiki/Mercury_Mail_Transport_System" title="Mercury Mail Transport System">Mercury Mail Transport System</a>, a standards-compliant donationware mail server</li>
+<li><a href="/wiki/Archer_Maclean%27s_Mercury" title="Archer Maclean's Mercury">Archer Maclean's Mercury</a>, the first in a series of games developed and/or published by Ignition Entertainment</li>
+</ul>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=6" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Edmonton_Mercurys" title="Edmonton Mercurys">Edmonton Mercurys</a>, a 1940s and 50s intermediate ice hockey team from Canada</li>
+<li><a href="/wiki/Phoenix_Mercury" title="Phoenix Mercury">Phoenix Mercury</a>, a Women's National Basketball Association team from Arizona, United States</li>
+<li><a href="/wiki/Toledo_Mercurys" title="Toledo Mercurys">Toledo Mercurys</a>, a defunct International Hockey League franchise from Ohio, United States</li>
+</ul>
+<h2><span class="mw-headline" id="Media">Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=7" title="Edit section: Media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mercury_(magazine)" title="Mercury (magazine)"><i>Mercury</i> (magazine)</a>, an astronomy magazine</li>
+</ul>
+<h3><span class="mw-headline" id="Newspapers">Newspapers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=8" title="Edit section: Newspapers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Las_Vegas_Mercury" title="Las Vegas Mercury">Las Vegas Mercury</a></i>, a defunct newspaper in Las Vegas, Nevada</li>
+<li><a href="/wiki/Mercury_(Newport)" title="Mercury (Newport)" class="mw-redirect"><i>Mercury</i> (Newport)</a>, a newspaper in Rhode Island</li>
+<li><a href="/wiki/The_Mercury_(Pennsylvania)" title="The Mercury (Pennsylvania)"><i>Mercury</i> (Pennsylvania)</a>, a newspaper in Pennsylvania, United States</li>
+<li><i><a href="/wiki/Clevedon_Mercury" title="Clevedon Mercury">Clevedon Mercury</a></i>, a weekly free newspaper in England</li>
+<li><i><a href="/wiki/Guelph_Mercury" title="Guelph Mercury">Guelph Mercury</a></i>, a Canadian newspaper</li>
+<li><i><a href="/wiki/Illawarra_Mercury" title="Illawarra Mercury">Illawarra Mercury</a></i>, a daily newspaper in Australia</li>
+<li><i><a href="/wiki/Leicester_Mercury" title="Leicester Mercury">Leicester Mercury</a></i>, a United Kingdom regional newspaper</li>
+<li><i><a href="/wiki/London_Mercury" title="London Mercury">London Mercury</a></i>, a list of periodicals named London Mercury published in London</li>
+<li><i><a href="/wiki/Maitland_Mercury" title="Maitland Mercury">Maitland Mercury</a></i>, an Australian newspaper</li>
+<li><i><a href="/wiki/Matlock_Mercury" title="Matlock Mercury">Matlock Mercury</a></i>, a United Kingdom newspaper</li>
+<li><i><a href="/wiki/Pittsburgh_Mercury" title="Pittsburgh Mercury">Pittsburgh Mercury</a></i>, a 19th-century newspaper in Pittsburgh, Pennsylvania, United States</li>
+<li><i><a href="/wiki/Quebec_Mercury" title="Quebec Mercury">Quebec Mercury</a></i>, a defunct 19th Century weekly newspaper published in Quebec City, Canada</li>
+<li><i><a href="/wiki/San_Jose_Mercury_News" title="San Jose Mercury News">San Jose Mercury News</a></i>, a newspaper in San Jose, CA</li>
+<li><i><a href="/wiki/Sherborne_Mercury" title="Sherborne Mercury">Sherborne Mercury</a></i>, a defunct newspaper from Dorset United Kingdom</li>
+<li><i><a href="/wiki/St_Arnaud_Mercury" title="St Arnaud Mercury">St Arnaud Mercury</a></i>, a newspaper in Victoria, Australia</li>
+<li><i><a href="/wiki/Staffordshire_Mercury" title="Staffordshire Mercury">Staffordshire Mercury</a></i>, a newspaper that was published in Staffordshire, England</li>
+<li><i><a href="/wiki/Sunday_Mercury" title="Sunday Mercury">Sunday Mercury</a></i>, a newspaper in Birmingham, United Kingdom</li>
+<li><a href="/wiki/The_Mercury_(Hobart)" title="The Mercury (Hobart)"><i>The Mercury</i> (Hobart)</a>, a newspaper in Hobart, Australia</li>
+<li><a href="/wiki/The_Mercury_(South_Africa)" title="The Mercury (South Africa)"><i>The Mercury</i> (South Africa)</a>, an English language newspaper published in Durban, South Africa</li>
+<li><i><a href="/wiki/The_Portland_Mercury" title="The Portland Mercury">The Portland Mercury</a></i>, an alternative weekly newspaper published in Oregon, United States</li>
+<li><i><a href="/wiki/The_Somerset_Mercury" title="The Somerset Mercury">The Somerset Mercury</a></i>, a regional newspaper in Somerset, England</li>
+<li><i><a href="/wiki/The_Weston_%26_Somerset_Mercury" title="The Weston &amp; Somerset Mercury">The Weston &amp; Somerset Mercury</a></i>, a weekly paid for newspaper in Somerset, England</li>
+<li><i><a href="/wiki/Rutland_And_Stamford_Mercury" title="Rutland And Stamford Mercury" class="mw-redirect">Rutland And Stamford Mercury</a></i>, a weekly paid-for newspaper. The oldest newspaper in England</li>
+</ul>
+<h3><span class="mw-headline" id="Radio_stations">Radio stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=9" title="Edit section: Radio stations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/102.7_Mercury_FM" title="102.7 Mercury FM" class="mw-redirect">102.7 Mercury FM</a>, a radio station in Surrey, United Kingdom</li>
+<li><a href="/wiki/Mercury_96.6" title="Mercury 96.6" class="mw-redirect">Mercury 96.6</a>, a radio station in Hertfordshire, United Kingdom</li>
+</ul>
+<h3><span class="mw-headline" id="Motion_pictures">Motion pictures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=10" title="Edit section: Motion pictures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Mercury_Rising" title="Mercury Rising">Mercury Rising</a></i>, a 1998 adventure film starring Bruce Willis</li>
+</ul>
+<h3><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=11" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Mercury_(TV_series)" title="Mercury (TV series)"><i>Mercury</i> (TV series)</a>, an Australian TV series launched in 1996</li>
+</ul>
+<h2><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=12" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mercury_(name)" title="Mercury (name)">Mercury (name)</a>, a given name and surname</li>
+<li><a href="/wiki/Mercury_dime" title="Mercury dime">Mercury dime</a>, a United States coin minted from 1916 through 1945</li>
+<li><a href="/wiki/Mercury_(novel)" title="Mercury (novel)"><i>Mercury</i> (novel)</a>, a 2005 novel by Ben Bova</li>
+<li><a href="/wiki/Mercury_(cipher_machine)" title="Mercury (cipher machine)">Mercury (cipher machine)</a>, a British cipher machine used from the 1950s</li>
+<li><a href="/wiki/Mercury_(satellite)" title="Mercury (satellite)">Mercury (satellite)</a>, the name of a series of three United States satellites</li>
+<li><a href="/wiki/Mercury_(plant)" title="Mercury (plant)" class="mw-redirect">Mercury (plant)</a>, members of the plant genus <i>Mercurialis</i></li>
+<li><a href="/wiki/Operation_Mercury" title="Operation Mercury" class="mw-redirect">Operation Mercury</a>, codename for the German invasion of Crete during World War II</li>
+<li><a href="/wiki/Mercury_Boulevard" title="Mercury Boulevard">Mercury Boulevard</a>, a road in Virginia, United States</li>
+<li><a href="/wiki/The_Mercury_Award" title="The Mercury Award">The Mercury Award</a>, an international airline award for in-flight catering</li>
+<li><a href="/wiki/Mercury_Communications" title="Mercury Communications">Mercury Communications</a>, a British telecommunications firm set up in the 1980s</li>
+<li><a href="/wiki/Sailor_Mercury" title="Sailor Mercury">Sailor Mercury</a>, a character in the <i>Sailor Moon</i> franchise</li>
+<li><a href="/wiki/Mercury_Insurance_Group" title="Mercury Insurance Group">Mercury Insurance Group</a>, an American automobile and property insurance company</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mercury&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mercur_(disambiguation)" title="Mercur (disambiguation)" class="mw-redirect">Mercur (disambiguation)</a></li>
+<li><a href="/wiki/Mercurius_(disambiguation)" title="Mercurius (disambiguation)" class="mw-redirect">Mercurius (disambiguation)</a></li>
+<li><a href="/wiki/The_Mercury_(disambiguation)" title="The Mercury (disambiguation)" class="mw-redirect">The Mercury (disambiguation)</a></li>
+<li><a href="/wiki/Mercury_1_(disambiguation)" title="Mercury 1 (disambiguation)" class="mw-redirect">Mercury 1 (disambiguation)</a></li>
+<li><a href="/wiki/Mercury_2_(disambiguation)" title="Mercury 2 (disambiguation)" class="mw-redirect">Mercury 2 (disambiguation)</a></li>
+<li><a href="/wiki/Mercury_3_(disambiguation)" title="Mercury 3 (disambiguation)" class="mw-redirect">Mercury 3 (disambiguation)</a></li>
+<li><a href="/wiki/Mercury_4_(disambiguation)" title="Mercury 4 (disambiguation)" class="mw-redirect">Mercury 4 (disambiguation)</a></li>
+<li><a href="/wiki/Mercury_chloride_(disambiguation)" title="Mercury chloride (disambiguation)" class="mw-redirect">Mercury chloride (disambiguation)</a></li>
+<li><a href="/wiki/Mercury_House_(disambiguation)" title="Mercury House (disambiguation)" class="mw-redirect">Mercury House (disambiguation)</a></li>
+<li><a href="/wiki/Mercury_program_(disambiguation)" title="Mercury program (disambiguation)" class="mw-disambig">Mercury program (disambiguation)</a></li>
+<li><a href="/wiki/Red_mercury_(disambiguation)" title="Red mercury (disambiguation)" class="mw-disambig">Red mercury (disambiguation)</a></li>
+</ul>
+<table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="" role="presentation">
+<tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"><a href="/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambiguation icon" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">This <a href="/wiki/Help:Disambiguation" title="Help:Disambiguation">disambiguation</a> page lists articles associated with the same title.<br />
+<small>If an <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Mercury&amp;namespace=0">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</small></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1137
+CPU time usage: 0.736 seconds
+Real time usage: 0.785 seconds
+Preprocessor visited node count: 1072/1000000
+Preprocessor generated node count: 2115/1500000
+Post‐expand include size: 4088/2048000 bytes
+Template argument size: 618/2048000 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.048/10.000 seconds
+Lua memory usage: 588 KB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19007-0!*!0!!en!4!* and timestamp 20140925180230 and revision id 627055931
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Mercury&amp;oldid=627055931">http://en.wikipedia.org/w/index.php?title=Mercury&amp;oldid=627055931</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></li><li><a href="/wiki/Category:Place_name_disambiguation_pages" title="Category:Place name disambiguation pages">Place name disambiguation pages</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></li><li><a href="/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mercury&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mercury" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Mercury"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Mercury"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Mercury" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Mercury&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mercury&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mercury" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mercury" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Mercury&amp;oldid=627055931" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Mercury&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q48397" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Mercury&amp;id=627055931" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mercury">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Mercury&amp;oldid=627055931&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Mercury&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Mercury_(desambiguaci%C3%B3)" title="Mercury (desambiguació) – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-ceb"><a href="//ceb.wikipedia.org/wiki/Mercury" title="Mercury – Cebuano" lang="ceb" hreflang="ceb">Cebuano</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Mercury_(rozcestn%C3%ADk)" title="Mercury (rozcestník) – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Mercury" title="Mercury – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Mercury" title="Mercury – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D8%B1%DA%A9%D9%88%D8%B1%DB%8C" title="مرکوری – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Mercury" title="Mercury – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%A8%B8%ED%81%90%EB%A6%AC" title="머큐리 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Mercury" title="Mercury – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Mercury" title="Mercury – Latvian" lang="lv" hreflang="lv">Latviešu</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Mercury" title="Mercury – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%BC" title="マーキュリー – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Mercury" title="Mercury – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Mercury" title="Mercury – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Mercury" title="Mercury – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Mercury" title="Mercury – Scots" lang="sco" hreflang="sco">Scots</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Mercury" title="Mercury – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Mercury" title="Mercury – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Mercury" title="Mercury – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Mercury" title="Mercury – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%B5" title="เมอร์คิวรี – Thai" lang="th" hreflang="th">ไทย</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Mercury" title="Mercury – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/Mercury" title="Mercury – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/Mercury" title="Mercury – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q48397#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 25 September 2014 at 18:02.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mercury&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf21/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":244,"wgHostname":"mw1220"});
+}</script>
+	</body>
+</html>
+	
